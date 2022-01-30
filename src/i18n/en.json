@@ -1,0 +1,20 @@
+{
+  "translation": {
+    "return-last-page-button-title": "Back",
+    "page-not-found-message": "Page not found.",
+    "change-language": "Change language",
+    "homepage-message": "Home Page",
+    "login-card-email-field-label": "Email",
+    "login-card-password-field-label": "Password",
+    "login-card-submit-button-title": "Login",
+    "login-card-welcome-message": "Welcome back",
+    "login-card-back-home-button-title": "Back to homepage",
+    "home-page-login-button-title": "To login page",
+    "home-page-light-mode-button-title": "Light mode",
+    "home-page-dark-mode-button-title": "Dark mode",
+    "home-page-not-found-button-title": "To 404 error page",
+    "home-page-nav-to-private-button-title": "To private page",
+    "private-page-heading": "Private Page",
+    "private-page-logout-button-title": "Logout"
+  }
+}

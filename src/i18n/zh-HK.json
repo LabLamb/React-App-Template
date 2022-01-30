@@ -1,0 +1,20 @@
+{
+  "translation": {
+    "return-last-page-button-title": "返回上一頁",
+    "page-not-found-message": "找不到頁面。",
+    "change-language": "更換語言",
+    "homepage-message": "首頁",
+    "login-card-email-field-label": "電郵",
+    "login-card-password-field-label": "密碼",
+    "login-card-submit-button-title": "登入",
+    "login-card-welcome-message": "歡迎回來",
+    "login-card-back-home-button-title": "回到主頁",
+    "home-page-login-button-title": "往登入頁面",
+    "home-page-light-mode-button-title": "預設色調",
+    "home-page-dark-mode-button-title": "暗黑色調",
+    "home-page-not-found-button-title": "往 404 頁面",
+    "home-page-nav-to-private-button-title": "往私人頁面",
+    "private-page-heading": "私人頁面",
+    "private-page-logout-button-title": "登出"
+  }
+}
